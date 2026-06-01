@@ -6,6 +6,11 @@ public class SenjataMelee extends Senjata implements IForgeable {
         this.material = material;
     }
 
+    // Getter (Encapsulation)
+    public String getMaterial() {
+        return material;
+    }
+
     @Override
     public void serang() {
         System.out.println(nama + " menebas musuh dengan material " + material + "!");

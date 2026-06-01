@@ -6,6 +6,11 @@ public class SenjataRange extends Senjata implements IForgeable {
         this.jarak = jarak;
     }
 
+    // Getter (Encapsulation)
+    public int getJarak() {
+        return jarak;
+    }
+
     @Override
     public void serang() {
         System.out.println(nama + " menembak dari jarak " + jarak + " meter!");

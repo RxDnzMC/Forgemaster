@@ -293,18 +293,36 @@ Mewarisi atribut dan method dari class Senjata.
 
 ## Encapsulation
 
-```java
-protected String nama;
-protected int damage;
-```
+Encapsulation diterapkan pada atribut `material` pada class `SenjataMelee` dan atribut `jarak` pada class `SenjataRange`.
+
+Kedua atribut menggunakan access modifier `private` sehingga tidak dapat diakses secara langsung dari luar class. Untuk mengakses data tersebut digunakan method getter.
+
+Contoh pada class `SenjataMelee`:
 
 ```java
 private String material;
+
+public String getMaterial() {
+    return material;
+}
 ```
+
+Contoh pada class `SenjataRange`:
 
 ```java
 private int jarak;
+
+public int getJarak() {
+    return jarak;
+}
 ```
+
+### Tujuan
+
+- Melindungi data internal objek
+- Membatasi akses langsung terhadap atribut
+- Mengontrol akses data melalui method getter
+- Meningkatkan keamanan dan keteraturan program
 
 ### Tujuan
 
