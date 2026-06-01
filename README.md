@@ -18,8 +18,7 @@
 * [Error Handling](#error-handling)
 * [Kelebihan Program](#kelebihan-program)
 * [Pengembangan Selanjutnya](#pengembangan-selanjutnya)
-* [Screenshot Program](#screenshot-program)
-* [Identitas Pembuat](#identitas-pembuat)
+* [Kesimpulan](#Kesimpulan)
 
 ---
 
