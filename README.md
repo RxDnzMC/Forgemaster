@@ -324,12 +324,6 @@ public int getJarak() {
 - Mengontrol akses data melalui method getter
 - Meningkatkan keamanan dan keteraturan program
 
-### Tujuan
-
-Melindungi data internal objek.
-
----
-
 ## Runtime Polymorphism
 
 Method `serang()` dioverride oleh masing-masing subclass.
