@@ -446,13 +446,3 @@ Melalui aplikasi ini, pengguna dapat mengelola inventaris senjata, melakukan sim
 Program ini menunjukkan bagaimana konsep-konsep OOP dapat diterapkan secara nyata dalam pengembangan perangkat lunak sederhana.
 
 ---
-
-# Identitas Pembuat
-
-**Nama:** [Nama Mahasiswa]
-**NIM:** [NIM Mahasiswa]
-**Program Studi:** Teknik Informatika
-**Mata Kuliah:** Pemrograman Berorientasi Objek
-**Universitas:** Universitas Mulawarman
-
----
